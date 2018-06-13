@@ -1,3 +1,3 @@
 QGIS Kenya User Group Site
 
-Test
+Test 1.0
